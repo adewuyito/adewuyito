@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LinkedIn Redirect</title>
+    <!-- <script type="text/javascript">
+      window.onload = function () {
+        // Extract the authorization code from URL parameters
+        const urlParams = new URLSearchParams(window.location.search);
+        const code = urlParams.get('code');
+        
+        if (code) {
+          // Redirect back to your app using a custom scheme
+          window.location.href = `linkdinAuthTest://auth?code=${code}`;
+        } else {
+          // Handle error cases
+          console.error('Authorization code not found');
+        }
+      };
+    </script> -->
+  </head>
+  <body>
+    <a href="/.well-known/assetlinks.json" target="_blank">View assetlinks.json</a>
+
+    <h1>Redirecting...</h1>
+    <a href="http://127.0.0.1/5500/second">Open My App</a>
+  </body>
+</html> 
+
+
+
+

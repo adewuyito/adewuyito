@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "come.qbase.flutter_deep_linking",
+      "sha256_cert_fingerprints": [
+        "83:43:73:1A:A5:20:41:C1:6F:EF:6B:CB:28:69:09:A3:84:91:8B:43:D4:D4:8D:2C:91:EC:63:E8:C3:DB:34:6D"
+      ]
+    }
+  }
+]

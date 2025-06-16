@@ -14,27 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # 👋 Hi, I’m Timothy Adewuyi
 
-### 🚀 Mobile Developer | 🧠 Tech for Accessibility Advocate | 🎓 Final Year CS Student  
+### 🚀 Mobile Developer | 🧠 Accessibility Advocate | 🎓 Final Year CS Student
 
-Welcome to my GitHub! I’m a passionate mobile developer focused on building inclusive, performant, and scalable cross-platform apps using **Flutter** and **SwiftUI**. I believe technology should empower everyone — and my projects reflect that mission.
-
----
-
-### 🌟 About Me
-
-- 🎓 Final year Computer Science student at Bowen University  
-- 🛠️ 3+ years of experience building with **Flutter** and **SwiftUI**
-- 💬 Building an **ASL learning app** to bridge the gap between mute individuals and first-time learners
-- 🎯 Strong focus on **accessibility**, **education**, and **impact-driven development**
-- 🧩 Experience leading technical teams, organizing workshops, and mentoring peers
-- ✍🏽 Currently learning: **AI for sign proficiency**, **macOS tooling**, and **platform-aware design**
+Welcome to my GitHub! I'm passionate about using technology to bridge real-world gaps — especially in communication and education. I specialize in building **cross-platform mobile apps** with **Flutter** and **SwiftUI**, focusing on inclusive design and scalable architecture.
 
 ---
 
-### 🧰 Tech Toolbox
+### 🌍 About Me
+
+- 🎓 Final year Computer Science student at Bowen University
+- 🧑🏾‍💻 3+ years of experience with **Flutter**, **Firebase**, **SwiftUI**, and **Clean Architecture**
+- 🤝 Building an **ASL learning app** to empower both mute individuals and first-time learners
+- 🔧 Experienced with **Riverpod**, **Go Router**, and **macOS Flutter tooling**
+- 👥 Former GDG Campus Tech Lead – led technical teams and developer workshops
+- ✨ Passionate about **inclusive tech**, **mobile accessibility**, and **open-source learning**
+
+---
+
+### 🧰 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
@@ -42,7 +41,7 @@ Welcome to my GitHub! I’m a passionate mobile developer focused on building in
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Riverpod-0F172A?logo=riverpod&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1E1E1E?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-1E1E1E?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Go%20Router-02569B?style=flat&logo=github&logoColor=white" />
 </p>
 
@@ -55,27 +54,27 @@ Welcome to my GitHub! I’m a passionate mobile developer focused on building in
 
 ---
 
-### 💡 Highlight Projects
+### 🛠 Featured Projects
 
-- 🎓 **[ASL Learning Platform](https://github.com/adewuyito/)**  
-  A mobile-first app to teach American Sign Language (ASL) with progressive lessons, quizzes, dictionary, and admin backend – made with empathy and Flutter.
+- 🧏‍♂️ **ASL Learning App**  
+  A progressive sign language learning platform with lessons, quizzes, dictionary, and web-only admin features – built using Flutter, Riverpod, and Firebase.
 
-- 📦 **macOS Backend Admin Tool**  
-  Flutter desktop tool for uploading dictionary data and lesson content to Firebase using clean architecture.
+- 🖥 **macOS Admin Tool**  
+  Flutter desktop backend interface for uploading and managing ASL lesson content using JSON-to-Firestore automation and clean architecture.
 
-- 🎯 **GDG On Campus Leadership**  
-  Led and contributed to technical workshops, project architecture design, and Flutter onboarding for student developers.
+- 🌐 **GDG Bowen Campus**  
+  Contributed to technical infrastructure, led sessions on Flutter and Git, and mentored junior devs in real-world projects.
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/adewuyi-timothy/"><img src="https://img.shields.io/badge/LinkedIn-Timothy%20Adewuyi-blue?logo=linkedin&style=flat" /></a>
+  <a href="https://www.linkedin.com/in/adewuyi-timothy"><img src="https://img.shields.io/badge/LinkedIn-adewuyi--timothy-blue?logo=linkedin&style=flat" /></a>
   <a href="mailto:adewuyitimothy10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-> *"Tech should speak every language — even sign language. Let's build a more inclusive future together."*
+> *"I believe tech should be a bridge, not a barrier — and I’m building apps that make that happen."*
 

@@ -27,8 +27,6 @@ Welcome to my GitHub! I'm passionate about using technology to bridge real-world
 - 🎓 Final year Computer Science student at Bowen University
 - 🧑🏾‍💻 3+ years of experience with **Flutter**, **Firebase**, **SwiftUI**, and **Clean Architecture**
 - 🤝 Building an **ASL learning app** to empower both mute individuals and first-time learners
-- 🔧 Experienced with **Riverpod**, **Go Router**, and **macOS Flutter tooling**
-- 👥 Former GDG Campus Tech Lead – led technical teams and developer workshops
 - ✨ Passionate about **inclusive tech**, **mobile accessibility**, and **open-source learning**
 
 ---
@@ -40,9 +38,7 @@ Welcome to my GitHub! I'm passionate about using technology to bridge real-world
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Riverpod-0F172A?logo=riverpod&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-1E1E1E?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go%20Router-02569B?style=flat&logo=github&logoColor=white" />
 </p>
 
 ---

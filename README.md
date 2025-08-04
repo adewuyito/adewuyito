@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I’m Timothy Adewuyi
 
-### 🚀 Mobile Developer | 🧠 Accessibility Advocate | 🎓 Final Year CS Student
+### 🚀 Mobile Developer | 🧠 Accessibility Advocate | 🎓 CS Graduate
 
 Welcome to my GitHub! I'm passionate about using technology to bridge real-world gaps — especially in communication and education. I specialize in building **cross-platform mobile apps** with **Flutter** and **SwiftUI**, focusing on inclusive design and scalable architecture.
 
@@ -24,7 +24,6 @@ Welcome to my GitHub! I'm passionate about using technology to bridge real-world
 
 ### 🌍 About Me
 
-- 🎓 Final year Computer Science student at Bowen University
 - 🧑🏾‍💻 3+ years of experience with **Flutter**, **Firebase**, **SwiftUI**, and **Clean Architecture**
 - 🤝 Building an **ASL learning app** to empower both mute individuals and first-time learners
 - ✨ Passionate about **inclusive tech**, **mobile accessibility**, and **open-source learning**
